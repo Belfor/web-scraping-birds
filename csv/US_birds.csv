@@ -1,0 +1,11 @@
+Orden;Familia;Género;Nombre cientifico;Citación;Referencia;Protónimo;Avibase ID;Enlace corto;Taxonmic serial name
+Anseriformes;Anatidae;Dendrocygna;Dendrocygna autumnalis;(Linnaeus, 1758);Syst.Nat.ed.10 p.127;Anas autumnalis;C01A22D6C148AC65;https://avibase.ca/C01A22D6;175044
+Anseriformes;Anatidae;Dendrocygna;Dendrocygna arborea;(Linnaeus, 1758);Syst.Nat.ed.10 p.128;Anas arborea;DC65FCE73C5A66BA;https://avibase.ca/DC65FCE7;175048
+Anseriformes;Anatidae;Dendrocygna;Dendrocygna bicolor;(Vieillot, 1816);Nouv.Dict.Hist.Nat. p.136;Anas bicolor;9A60617EE376ABE9;https://avibase.ca/9A60617E;175046
+Anseriformes;Anatidae;Anser;Anser canagicus;(Sevastianov, 1802);NovaActaAcad.Sci.Imp.Petropol. p.349 pl.10;Anas Canagica;1E6F0F8D43759948;https://avibase.ca/1E6F0F8D;175042
+Anseriformes;Anatidae;Anser;Anser caerulescens;(Linnaeus, 1758);Syst.Nat.ed.10 p.124;Anas caerulescens;D3A260BCA65503C6;https://avibase.ca/D3A260BC;175038
+Anseriformes;Anatidae;Anser;Anser rossii;Cassin, 1861;Proc.Acad.Nat.Sci.Philadelphia p.73;Anser Rossii;7A24F57F87F66E97;https://avibase.ca/7A24F57F;175041
+Anseriformes;Anatidae;Anser;Anser anser;(Linnaeus, 1758);Syst.Nat.ed.10 p.123;Anas Anser;4AED44E819A43204;https://avibase.ca/4AED44E8;175028
+Anseriformes;Anatidae;Anser;Anser albifrons;(Scopoli, 1769);AnnusIHist.-Nat. p.69;Branta albifrons;466E9077BE220EBE;https://avibase.ca/466E9077;175020
+Anseriformes;Anatidae;Anser;Anser erythropus;(Linnaeus, 1758);Syst.Nat.ed.10 p.123;Anas erythropus;184D232983E7AD10;https://avibase.ca/184D2329;175033
+Anseriformes;Anatidae;Anser;Anser fabalis;(Latham, 1787);Gen.Syn.BirdsSuppl. p.297;Anas Fabalis;BDB497A352D152DB;https://avibase.ca/BDB497A3;175024
