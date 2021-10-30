@@ -1,0 +1,95 @@
+Orden;Familia;Género;Nombre cientifico;Citación;Referencia;Protónimo;Avibase ID;Enlace corto;Taxonmic serial name
+Anseriformes;Anatidae;Anser;Anser indicus;(Latham, 1790);IndexOrn. p.839;Anas indica;B7159EF0DE54C384;https://avibase.ca/B7159EF0;175034
+Anseriformes;Anatidae;Anser;Anser caerulescens;(Linnaeus, 1758);Syst.Nat.ed.10 p.124;Anas caerulescens;D3A260BCA65503C6;https://avibase.ca/D3A260BC;175038
+Anseriformes;Anatidae;Anser;Anser anser;(Linnaeus, 1758);Syst.Nat.ed.10 p.123;Anas Anser;4AED44E819A43204;https://avibase.ca/4AED44E8;175028
+Anseriformes;Anatidae;Anser;Anser albifrons;(Scopoli, 1769);AnnusIHist.-Nat. p.69;Branta albifrons;466E9077BE220EBE;https://avibase.ca/466E9077;175020
+Anseriformes;Anatidae;Anser;Anser erythropus;(Linnaeus, 1758);Syst.Nat.ed.10 p.123;Anas erythropus;184D232983E7AD10;https://avibase.ca/184D2329;175033
+Anseriformes;Anatidae;Anser;Anser fabalis;(Latham, 1787);Gen.Syn.BirdsSuppl. p.297;Anas Fabalis;BDB497A352D152DB;https://avibase.ca/BDB497A3;175024
+Anseriformes;Anatidae;Anser;Anser serrirostris;Gould, 1852;Proc.Zool.Soc.London p. 417;Anser segetum var. serrirostris;AD849FCBCC68A520;https://avibase.ca/AD849FCB;175027
+Anseriformes;Anatidae;Anser;Anser brachyrhynchus;Baillon, 1834;Mem.Soc.R.Emulat.Abbevil. p.74;Anser Brachyrhynchus;AFA7EE7470F000E9;https://avibase.ca/AFA7EE74;175036
+Anseriformes;Anatidae;Branta;Branta bernicla;(Linnaeus, 1758);Syst.Nat.ed.10 p.124;Anas Bernicla;3E04020B54C14FCC;https://avibase.ca/3E04020B;175011
+Anseriformes;Anatidae;Branta;Branta leucopsis;(Bechstein, 1803);Orn.Tasch.Deutsch. p.424;Anas leucopsis;3163ED86A508BB83;https://avibase.ca/3163ED86;175014
+Anseriformes;Anatidae;Branta;Branta canadensis;(Linnaeus, 1758);Syst.Nat.ed.10 p.123;Anas canadensis;B59E18633E2EFD25;https://avibase.ca/B59E1863;174999
+Anseriformes;Anatidae;Branta;Branta ruficollis;(Pallas, 1769);Spic.Zool. p.21 pl.4;Anser ruficollis;0D280B3F11B099B2;https://avibase.ca/0D280B3F;175015
+Anseriformes;Anatidae;Cygnus;Cygnus olor;(Gmelin, JF, 1789);Syst.Nat. p.502;Anas Olor;694C127A5D849FFE;https://avibase.ca/694C127A;174985
+Anseriformes;Anatidae;Cygnus;Cygnus atratus;(Latham, 1790);IndexOrn. p.834;Anas atrata;46B54DB1D4CF50D3;https://avibase.ca/46B54DB1;553906
+Anseriformes;Anatidae;Cygnus;Cygnus columbianus;(Ord, 1815);Geogr.[Guthrie]ed.2(Am.) p.319;Anas Columbianus;0BCBA6B9CC19E7BA;https://avibase.ca/0BCBA6B9;174987
+Anseriformes;Anatidae;Cygnus;Cygnus cygnus;(Linnaeus, 1758);Syst.Nat.ed.10 p.122;Anas Cygnus;BDDB5670D2D20A55;https://avibase.ca/BDDB5670;174990
+Anseriformes;Anatidae;Alopochen;Alopochen aegyptiaca;(Linnaeus, 1766);Syst.Nat.ed.12 p.197;Anas aegyptiaca;DA2F24E310CF72A6;https://avibase.ca/DA2F24E3;175214
+Anseriformes;Anatidae;Tadorna;Tadorna ferruginea;(Pallas, 1764);Cat.Ois.[Vroeg]Adumbr. p.5 no.358;Anas ferruginea;1F9D883EB44DEFD6;https://avibase.ca/1F9D883E;175056
+Anseriformes;Anatidae;Tadorna;Tadorna tadorna;(Linnaeus, 1758);Syst.Nat.ed.10 p.122;Anas Tadorna;5EAB32D3007896F3;https://avibase.ca/5EAB32D3;175055
+Anseriformes;Anatidae;Cairina;Cairina moschata;(Linnaeus, 1758);Syst.Nat.ed.10 p.124;Anas moschata;8DE140468464FA45;https://avibase.ca/8DE14046;175246
+Anseriformes;Anatidae;Aix;Aix galericulata;(Linnaeus, 1758);Syst.Nat.ed.10 p.128;Anas galericulata;E1714A09EA1DFD1D;https://avibase.ca/E1714A09;175123
+Anseriformes;Anatidae;Sibirionetta;Sibirionetta formosa;(Georgi, 1775);Bemerk.ReiseRuss.Reich p.168;Anas formosa;63EABB42903040B4;https://avibase.ca/63EABB42;175085
+Anseriformes;Anatidae;Spatula;Spatula querquedula;(Linnaeus, 1758);Syst.Nat.ed.10 p.126;Anas Querquedula;F577BA0F5BB7BD3F;https://avibase.ca/F577BA0F;175093
+Anseriformes;Anatidae;Spatula;Spatula discors;(Linnaeus, 1766);Syst.Nat.ed.12 p.205;Anas discors;90E2543E9A4ABA0A;https://avibase.ca/90E2543E;175086
+Anseriformes;Anatidae;Spatula;Spatula clypeata;(Linnaeus, 1758);Syst.Nat.ed.10 p.124;Anas clypeata;ED4CE8E7CFF43696;https://avibase.ca/ED4CE8E7;175096
+Anseriformes;Anatidae;Mareca;Mareca strepera;(Linnaeus, 1758);Syst.Nat.ed.10 p.125;Anas strepera;C235A4D712BB8855;https://avibase.ca/C235A4D7;175073
+Anseriformes;Anatidae;Mareca;Mareca falcata;(Georgi, 1775);Bemerk.ReiseRuss.Reich p.167;Anas falcata;978D448531E03998;https://avibase.ca/978D4485;175080
+Anseriformes;Anatidae;Mareca;Mareca penelope;(Linnaeus, 1758);Syst.Nat.ed.10 p.126;Anas Penelope;15EE0D3685082E13;https://avibase.ca/15EE0D36;175092
+Anseriformes;Anatidae;Mareca;Mareca americana;(Gmelin, JF, 1789);Syst.Nat. p.526;Anas americana;D201EB7230F20770;https://avibase.ca/D201EB72;175094
+Anseriformes;Anatidae;Anas;Anas platyrhynchos;Linnaeus, 1758;Syst.Nat.ed.10 p.125;Anas platyrhynchos;85625D75F2524457;https://avibase.ca/85625D75;175063
+Anseriformes;Anatidae;Anas;Anas rubripes;Brewster, 1902;Auk p.184;Anas obscura rubripes;C732CB106EE8BAE8;https://avibase.ca/C732CB10;175068
+Anseriformes;Anatidae;Anas;Anas acuta;Linnaeus, 1758;Syst.Nat.ed.10 p.126;Anas acuta;56CCA7179C9FA71D;https://avibase.ca/56CCA717;175074
+Anseriformes;Anatidae;Anas;Anas crecca;Linnaeus, 1758;Syst.Nat.ed.10 p.126;Anas Crecca;BC6C3CCE5C1B5D9B;https://avibase.ca/BC6C3CCE;175081
+Anseriformes;Anatidae;Marmaronetta;Marmaronetta angustirostris;(Ménétriés, 1832);Cat.Raison.Obj.Zool.Recueil.Voy.Caucase p.58;Anas angustirostris;6362936EA12874F1;https://avibase.ca/6362936E;553925
+Anseriformes;Anatidae;Netta;Netta rufina;(Pallas, 1773);ReiseVersch.Provin.Russ.Reichs p.713;Anas rufina;3EC2CDA952B4A18C;https://avibase.ca/3EC2CDA9;175234
+Anseriformes;Anatidae;Aythya;Aythya ferina;(Linnaeus, 1758);Syst.Nat.ed.10 p.126;Anas ferina;A96692E0C9F7508B;https://avibase.ca/A96692E0;175126
+Anseriformes;Anatidae;Aythya;Aythya collaris;(Donovan, 1809);Brit.Birds pl.147,text;Anas collaris;0783A7EA9C26947D;https://avibase.ca/0783A7EA;175128
+Anseriformes;Anatidae;Aythya;Aythya nyroca;(Güldenstädt, 1770);NoviCommen.Acad.Sci.Imp.Petrop. p.403;Anas nyroca;7CF91527F5832F30;https://avibase.ca/7CF91527;175139
+Anseriformes;Anatidae;Aythya;Aythya fuligula;(Linnaeus, 1758);Syst.Nat.ed.10 p.128;Anas fuligula;67CEA1C1FC88F1DB;https://avibase.ca/67CEA1C1;175135
+Anseriformes;Anatidae;Aythya;Aythya marila;(Linnaeus, 1761);FaunaSvecica.ed.2 p.39;Anas Marila;25C94A8F90A829F7;https://avibase.ca/25C94A8F;175130
+Anseriformes;Anatidae;Aythya;Aythya affinis;(Eyton, 1838);Monogr.Anatidae p.157;Fuligula affinis;50566E50C91B8686;https://avibase.ca/50566E50;175134
+Anseriformes;Anatidae;Somateria;Somateria spectabilis;(Linnaeus, 1758);Syst.Nat.ed.10 p.123;Anas spectabilis;F3D7491432CC59E7;https://avibase.ca/F3D74914;175160
+Anseriformes;Anatidae;Somateria;Somateria mollissima;(Linnaeus, 1758);Syst.Nat.ed.10 p.124;Anas mollissima;B77377EEB852D0AF;https://avibase.ca/B77377EE;175155
+Anseriformes;Anatidae;Melanitta;Melanitta perspicillata;(Linnaeus, 1758);Syst.Nat.ed.10 p.125;Anas perspicillata;624078BAC17F8111;https://avibase.ca/624078BA;175170
+Anseriformes;Anatidae;Melanitta;Melanitta fusca;(Linnaeus, 1758);Syst.Nat.ed.10 p.123;Anas fusca;BAF44E36E8D647CB;https://avibase.ca/BAF44E36;175163
+Anseriformes;Anatidae;Melanitta;Melanitta deglandi;(Bonaparte, 1850);Rev.Crit.Orn.Europ. p.108;Oedemia deglandi;4800D6B673F13A48;https://avibase.ca/4800D6B6;175165
+Anseriformes;Anatidae;Melanitta;Melanitta stejnegeri;(Ridgway, 1887);Man.N.Am.Birds p.112;Oidemia stejnegeri;1A601D86C048CBAA;https://avibase.ca/1A601D86;714738
+Anseriformes;Anatidae;Melanitta;Melanitta nigra;(Linnaeus, 1758);Syst.Nat.ed.10 p.123;Anas nigra;246981996A4998ED;https://avibase.ca/24698199;175171
+Anseriformes;Anatidae;Melanitta;Melanitta americana;(Swainson, 1832);FaunaBor.-Am.[Swainson&Richardson] p.450;Oidemia Americana;B7B1A5DD94724A05;https://avibase.ca/B7B1A5DD;175173
+Anseriformes;Anatidae;Clangula;Clangula hyemalis;(Linnaeus, 1758);Syst.Nat.ed.10 p.126;Anas hyemalis;AF0C7BDEC7CEBAAC;https://avibase.ca/AF0C7BDE;175147
+Anseriformes;Anatidae;Bucephala;Bucephala albeola;(Linnaeus, 1758);Syst.Nat.ed.10 p.124;Anas Albeola;FB7383856D0DB2EA;https://avibase.ca/FB738385;175145
+Anseriformes;Anatidae;Bucephala;Bucephala clangula;(Linnaeus, 1758);Syst.Nat.ed.10 p.125;Anas Clangula;68EA281AF74846D2;https://avibase.ca/68EA281A;175141
+Anseriformes;Anatidae;Bucephala;Bucephala islandica;(Gmelin, JF, 1789);Syst.Nat. p.541;Anas islandica;9456DEDF7E1AADF3;https://avibase.ca/9456DEDF;175144
+Anseriformes;Anatidae;Mergellus;Mergellus albellus;(Linnaeus, 1758);Syst.Nat.ed.10 p.129;Mergus Albellus;F1F520368CC95F88;https://avibase.ca/F1F52036;175196
+Anseriformes;Anatidae;Lophodytes;Lophodytes cucullatus;(Linnaeus, 1758);Syst.Nat.ed.10 p.129;Mergus cucullatus;60E6081E3DF8CFA4;https://avibase.ca/60E6081E;175183
+Anseriformes;Anatidae;Mergus;Mergus merganser;Linnaeus, 1758;Syst.Nat.ed.10 p.129;Mergus Merganser;407E2CA886367DBB;https://avibase.ca/407E2CA8;175185
+Anseriformes;Anatidae;Mergus;Mergus serrator;Linnaeus, 1758;Syst.Nat.ed.10 p.129;Mergus Serrator;8DB64266A42FC19B;https://avibase.ca/8DB64266;175187
+Anseriformes;Anatidae;Oxyura;Oxyura jamaicensis;(Gmelin, JF, 1789);Syst.Nat. p.519;Anas jamaicensis;675EEA7FBD490CED;https://avibase.ca/675EEA7F;714751
+Anseriformes;Anatidae;Oxyura;Oxyura leucocephala;(Scopoli, 1769);AnnusIHist.-Nat. p.65;Anas leucocephala;2E40EF2C53646E30;https://avibase.ca/2E40EF2C;175179
+Galliformes;Phasianidae;Tetrastes;Tetrastes bonasia;(Linnaeus, 1758);Syst.Nat.ed.10 p.160;Tetrao Bonasia;B8CA2EEB4E7E0CA3;https://avibase.ca/B8CA2EEB;677536
+Galliformes;Phasianidae;Lagopus;Lagopus lagopus;(Linnaeus, 1758);Syst.Nat.ed.10 p.159;Tetrao Lagopus;FC3D07C64FF2C915;https://avibase.ca/FC3D07C6;175804
+Galliformes;Phasianidae;Lagopus;Lagopus muta;(Montin, 1781);Phys.Salsk.Handl. p.155;Tetrao mutus;79B161B7017DD7ED;https://avibase.ca/79B161B7;677542
+Galliformes;Phasianidae;Tetrao;Tetrao urogallus;Linnaeus, 1758;Syst.Nat.ed.10 p.159;Tetrao Urogallus;C3221EE24B948F50;https://avibase.ca/C3221EE2;553893
+Galliformes;Phasianidae;Perdix;Perdix perdix;(Linnaeus, 1758);Syst.Nat.ed.10 p.160;Tetrao Perdix;C013A20E7F91419D;https://avibase.ca/C013A20E;175915
+Galliformes;Phasianidae;Phasianus;Phasianus colchicus;Linnaeus, 1758;Syst.Nat.ed.10 p.158;Phasianus colchicus;4B9EEF568857FB51;https://avibase.ca/4B9EEF56;175905
+Galliformes;Phasianidae;Francolinus;Francolinus francolinus;(Linnaeus, 1766);Syst.Nat.ed.12 p.275;Tetrao Francolinus;50658B225BD16740;https://avibase.ca/50658B22;175974
+Galliformes;Phasianidae;Coturnix;Coturnix coturnix;(Linnaeus, 1758);Syst.Nat.ed.10 p.161;Tetrao Coturnix;CAFE345DCABD8BF8;https://avibase.ca/CAFE345D;553871
+Galliformes;Phasianidae;Alectoris;Alectoris barbara;(Bonnaterre, 1790);Tabl.Encyc.Meth.Orn. p.208 pl.94 fig.2;Perdix Barbara;D44B2846BB2436A7;https://avibase.ca/D44B2846;175909
+Galliformes;Phasianidae;Alectoris;Alectoris rufa;(Linnaeus, 1758);Syst.Nat.ed.10 p.160;Tetrao rufus;F71E0BE60C5B3C98;https://avibase.ca/F71E0BE6;175913
+Phoenicopteriformes;Phoenicopteridae;Phoenicopterus;Phoenicopterus roseus;Pallas, 1811;Zoogr.Rosso-Asiat. p.207;Phoenicopterus roseus;0F9B5174A8ACF737;https://avibase.ca/0F9B5174;824111
+Phoenicopteriformes;Phoenicopteridae;Phoeniconaias;Phoeniconaias minor;(Geoffroy Saint-Hilaire, E, 1798);Bull.Sci.Soc.Philom. p.98,pl. fig.1,2,3;Phoenicopterus minor;B06A9079584A8D53;https://avibase.ca/B06A9079;174978
+Podicipediformes;Podicipedidae;Tachybaptus;Tachybaptus ruficollis;(Pallas, 1764);Cat.Ois.[Vroeg]Adumbr. p.6 no.281;Colymbus ruficollis;215FEA89A0F19F5C;https://avibase.ca/215FEA89;563259
+Podicipediformes;Podicipedidae;Podilymbus;Podilymbus podiceps;(Linnaeus, 1758);Syst.Nat.ed.10 p.136;Colymbus Podiceps;9A8E55D00554A088;https://avibase.ca/9A8E55D0;174505
+Podicipediformes;Podicipedidae;Podiceps;Podiceps auritus;(Linnaeus, 1758);Syst.Nat.ed.10 p.135;Colymbus auritus;018B316959E84738;https://avibase.ca/018B3169;174482
+Podicipediformes;Podicipedidae;Podiceps;Podiceps grisegena;(Boddaert, 1783);TablePlanchesEnlum. p.55;Colymbus grisegena;1CBD2CED48B674A4;https://avibase.ca/1CBD2CED;174479
+Podicipediformes;Podicipedidae;Podiceps;Podiceps cristatus;(Linnaeus, 1758);Syst.Nat.ed.10 p.135;Colymbus cristatus;8F269702DC208010;https://avibase.ca/8F269702;174491
+Podicipediformes;Podicipedidae;Podiceps;Podiceps nigricollis;Brehm, CL, 1831;Handb.Naturgesch.Vog.Deutschl. p.963;Podiceps nigricollis;32DCEC14D7AE129B;https://avibase.ca/32DCEC14;174485
+Columbiformes;Columbidae;Columba;Columba livia;Gmelin, JF, 1789;Syst.Nat. p.769;Columba domestica livia;BBA263C235B15B88;https://avibase.ca/BBA263C2;177071
+Columbiformes;Columbidae;Columba;Columba oenas;Linnaeus, 1758;Syst.Nat.ed.10 p.162;Columba Oenas;68E4C0D1404A46D8;https://avibase.ca/68E4C0D1;177098
+Columbiformes;Columbidae;Columba;Columba palumbus;Linnaeus, 1758;Syst.Nat.ed.10 p.163;Columba Palumbus;760F307A30689D66;https://avibase.ca/760F307A;177103
+Columbiformes;Columbidae;Columba;Columba bollii;Godman, 1872;Ibis p.217;Columba bollii;1ED914E6AA103853;https://avibase.ca/1ED914E6;177077
+Columbiformes;Columbidae;Columba;Columba junoniae;Hartert, E, 1916;Novit.Zool. p.86;Columba junoniae;396E6311C7C5F4E6;https://avibase.ca/396E6311;177091
+Columbiformes;Columbidae;Streptopelia;Streptopelia turtur;(Linnaeus, 1758);Syst.Nat.ed.10 p.164;Columba Turtur;5788552B694ED7B5;https://avibase.ca/5788552B;177149
+Columbiformes;Columbidae;Streptopelia;Streptopelia orientalis;(Latham, 1790);IndexOrn. p.606;Columba orientalis;6658BAC574088183;https://avibase.ca/6658BAC5;177142
+Columbiformes;Columbidae;Streptopelia;Streptopelia decaocto;(Frivaldszky, 1838);Kaarp.Magy.tud.Tars.Evk. p.183 pl.8;Columba risoria L. var. decaocto;41FACE6330A2F073;https://avibase.ca/41FACE63;177139
+Columbiformes;Columbidae;Streptopelia;Streptopelia roseogrisea;(Sundevall, 1857);K.Vet.Akad.NyaHandl.n.s. p.54;Columbam roseogriseam;273A4A2F793BFFA1;https://avibase.ca/273A4A2F;177145
+Columbiformes;Columbidae;Spilopelia;Spilopelia senegalensis;(Linnaeus, 1766);Syst.Nat.ed.12 p.283;Columba senegalensis;B2D6AB06AA0628A7;https://avibase.ca/B2D6AB06;177147
+Pteroclidiformes;Pteroclidae;Syrrhaptes;Syrrhaptes paradoxus;(Pallas, 1773);ReiseVersch.Provin.Russ.Reichs p.712;Tetrao paradoxa;BDCB55F1196CAC6A;https://avibase.ca/BDCB55F1;177042
+Pteroclidiformes;Pteroclidae;Pterocles;Pterocles alchata;(Linnaeus, 1766);Syst.Nat.ed.12 p.276;Tetrao Alchata;493C4CF8D0200AB4;https://avibase.ca/493C4CF8;177045
+Pteroclidiformes;Pteroclidae;Pterocles;Pterocles senegallus;(Linnaeus, 1771);MantissaPlant. p.526;Tetrao senegallus;942BC61855ED501E;https://avibase.ca/942BC618;177058
+Pteroclidiformes;Pteroclidae;Pterocles;Pterocles orientalis;(Linnaeus, 1758);Syst.Nat.ed.10 p.161;Tetrao orientalis;06B41945B9E57EC4;https://avibase.ca/06B41945;177055
+Otidiformes;Otididae;Otis;Otis tarda;Linnaeus, 1758;Syst.Nat.ed.10 p.154;Otis Tarda;C6F33176724AC933;https://avibase.ca/C6F33176;176419
+Otidiformes;Otididae;Chlamydotis;Chlamydotis undulata;(von Jacquin, 1784);Beytr.Gesch.Vogel p.24 pl.9;Psophia undulata;5714C710ACE4DA8B;https://avibase.ca/5714C710;176432
+Otidiformes;Otididae;Tetrax;Tetrax tetrax;(Linnaeus, 1758);Syst.Nat.ed.10 p.154;Otis Tetrax;56E3016D3370A6D5;https://avibase.ca/56E3016D;563379
